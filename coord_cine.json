@@ -11,7 +11,7 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "This is a basic POI"
+        "title": "CINEMEX PLAZA DEL VALLE "
       }
     }, 
     {
@@ -27,7 +27,7 @@
       "id": 2, 
       "text": {
         "description": "Description line 1\nDescription line 2\nand Description line 3", 
-        "title": "This POI has a custom icon and description"
+        "title": "CINEPOLIS PLAZA OAXACA"
       }
     }, 
     {
@@ -40,13 +40,13 @@
       ], 
       "anchor": {
         "geolocation": {
-          "lat": 17.076683, 
-          "lon": -96.744548
+          "lat": 17.074046, 
+          "lon": -96.757219
         }
       }, 
       "id": 3, 
       "text": {
-        "title": "This POI has an action"
+        "title": "CINEMEX PLAZA BELLA"
       }
     }
   ], 

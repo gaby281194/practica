@@ -22,7 +22,7 @@
         }
       }, 
       "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+        "url": "https://www.google.com.mx/search?client=ubuntu&channel=fs&dcr=0&biw=1366&bih=613&tbm=isch&sa=1&q=cinemex+plaza+del+valle&oq=cinemex+plaza+del+valle&gs_l=psy-ab.3...132582.139032.0.139217.25.14.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..25.0.0....0.vmQaGlth204#imgrc=p4TWyf4D1stYhM:"
       }, 
       "id": 2, 
       "text": {
@@ -35,7 +35,7 @@
         {
           "contentType": "text/html", 
           "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+          "uri": "https://www.google.com.mx/search?client=ubuntu&channel=fs&dcr=0&tbm=isch&q=cinepolis+oaxaca&spell=1&sa=X&ved=0ahUKEwjeyITlitXWAhVM6yYKHY3bDygQvwUIIygA&biw=1366&bih=662&dpr=1#imgdii=VBVlz6aMhjsQbM:&imgrc=Ho1mYj1CmdDdfM:"
         }
       ], 
       "anchor": {

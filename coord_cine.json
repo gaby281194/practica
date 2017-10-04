@@ -9,44 +9,45 @@
           "lon": -96.7127
         }
       }, 
+      "icon": {
+        "url": "https://s3-media2.fl.yelpcdn.com/bphoto/Sl9OcFk3HGumnJGVR_S5AA/348s.jpg"
+      }, 
       "id": 1, 
       "text": {
-        "title": "CINEMEX PLAZA DEL VALLE "
+        "description": "CINEMEX PLAZA DEL VALLE", 
+        "title": "CINE"
       }
-    }, 
+    },
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.0431, 
+        "lat": 17.0431, 
           "lon": -96.7159
         }
       }, 
       "icon": {
-        "url": "https://www.google.com.mx/search?client=ubuntu&channel=fs&dcr=0&biw=1366&bih=613&tbm=isch&sa=1&q=cinemex+plaza+del+valle&oq=cinemex+plaza+del+valle&gs_l=psy-ab.3...132582.139032.0.139217.25.14.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..25.0.0....0.vmQaGlth204#imgrc=p4TWyf4D1stYhM:"
+        "url": "http://cdmxtravel.com/assets/cache/1aa559737cd37f919f3fb11a7b5b1c69/discover-3287-c-plaza-central_849x477_adaptiveResize.jpg"
       }, 
       "id": 2, 
       "text": {
-        "description": "", 
-        "title": "CINEPOLIS PLAZA OAXACA"
+        "description": "CINEPOLIS PLAZA OAXACA", 
+        "title": "CINE"
       }
-    }, 
+    },
     {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.google.com.mx/search?client=ubuntu&channel=fs&dcr=0&tbm=isch&q=cinepolis+oaxaca&spell=1&sa=X&ved=0ahUKEwjeyITlitXWAhVM6yYKHY3bDygQvwUIIygA&biw=1366&bih=662&dpr=1#imgdii=VBVlz6aMhjsQbM:&imgrc=Ho1mYj1CmdDdfM:"
-        }
-      ], 
       "anchor": {
         "geolocation": {
           "lat": 17.074046, 
           "lon": -96.757219
         }
       }, 
+      "icon": {
+        "url": "http://www.ideainmobiliaria.com.mx/wp-content/uploads/WPL/152/thimg_Plaza-Bella-Oaxaca1_285x200.jpg"
+      }, 
       "id": 3, 
       "text": {
-        "title": "CINEMEX PLAZA BELLA"
+        "description": "CINEMEX PLAZA BELLA", 
+        "title": "CINE"
       }
     }
   ], 

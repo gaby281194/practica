@@ -7,18 +7,17 @@
         "geolocation": {
           "lat": 17.058892,  
           "lon": -96.699846
-
         }
       }, 
       "icon": {
         "url": "http://www.cienladrillos.com/wp-content/uploads/2010/11/house.jpg"
       }, 
-      "id": 1, 
+      "id": 3, 
       "text": {
         "description": "En esta casa somos 14 :D", 
-        "title": "Casa de Gaby Hdz"
+        "title": "Casa de Gaby"
       }
-    },
+    }
   ], 
   "layer": "ejemplo17hyp"
 }

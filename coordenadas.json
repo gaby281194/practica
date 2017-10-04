@@ -5,50 +5,20 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.067715, 
-          "lon": -96.737993
-        }
-      }, 
-      "id": 1, 
-      "text": {
-        "title": "This is a basic POI"
-      }
-    }, 
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 17.076683, 
-          "lon": -96.744548
+          "lat": 17.058892,  
+          "lon": -96.699846
+
         }
       }, 
       "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+        "url": "http://www.cienladrillos.com/wp-content/uploads/2010/11/house.jpg"
       }, 
-      "id": 2, 
+      "id": 1, 
       "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3", 
-        "title": "This POI has a custom icon and description"
+        "description": "En esta casa somos 14 :D", 
+        "title": "Casa de Gaby Hdz"
       }
-    }, 
-    {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
-      "anchor": {
-        "geolocation": {
-          "lat": 17.067055,
-          "lon": -96.740287
-        }
-      }, 
-      "id": 3, 
-      "text": {
-        "title": "This POI has an action"
-      }
-    }
+    },
   ], 
-  "layer": ""
+  "layer": "ejemplo17hyp"
 }
